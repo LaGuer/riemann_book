@@ -1,4 +1,11 @@
 [![Build Status](https://travis-ci.org/clawpack/riemann_book.svg?branch=master)](https://travis-ci.org/clawpack/riemann_book)
+[![codecov](https://codecov.io/gh/LaGuer/riemann_book/branch/master/graph/badge.svg)](https://codecov.io/gh/LaGuer/Jupyt-Nb)
+[![Coverage Status](https://coveralls.io/repos/github/LaGuer/riemann_book/badge.svg?branch=master)](https://coveralls.io/github/LaGuer/Jupyt-Nb?branch=master)
+[![Travis](https://travis-ci.org/LaGuer/riemann_book.svg?branch=master)](https://travis-ci.org/LaGuer/riemann_book)
+[![Build status](https://ci.appveyor.com/api/projects/status/3s7i0w7gw1iocaq1?svg=true)](https://ci.appveyor.com/project/LaGuer/riemann_book)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaGuer/riemann_book/master)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LaGuer/riemann_book/blob/master/.ipynb)
+
 
 # Riemann Problems and Jupyter Solutions
 
